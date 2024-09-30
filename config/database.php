@@ -16,7 +16,7 @@ return [
     |
     */
 
-    'default' => env('DB_CONNECTION', 'sqlite'),
+    'default' => env('DB_CONNECTION', 'mysql'),
 
     /*
     |--------------------------------------------------------------------------
@@ -97,14 +97,14 @@ return [
             'sslmode' => 'prefer',
         ],
 
-        'sqlsrv' => [
+        'medipac' => [
             'driver' => 'sqlsrv',
             'url' => env('DB_URL'),
-            'host' => env('DB_HOST', 'localhost'),
-            'port' => env('DB_PORT', '1433'),
-            'database' => env('DB_DATABASE', 'laravel'),
-            'username' => env('DB_USERNAME', 'root'),
-            'password' => env('DB_PASSWORD', ''),
+            'host' => env('DB_HOST_SQLSERVER', 'localhost'),
+            'port' => env('DB_PORT_SQLSERVER', '1433'),
+            'database' => env('DB_DATABASE_SQLSERVER', 'medipac'),
+            'username' => env('DB_USERNAME_SQLSERVER', 'sa'),
+            'password' => env('DB_PASSWORD_SQLSERVER', '123456'),
             'charset' => env('DB_CHARSET', 'utf8'),
             'prefix' => '',
             'prefix_indexes' => true,
