@@ -9,7 +9,6 @@
 </head>
 <body>
 
-<!-- Primero se  crea una vista html en la que se asignan las distintas clases  -->
 <div class="container-fluid p-5 bg-primary text-white text-center">
   <h1>Bienvenido a Medipac</h1>
   <p>Ingrese sus credenciales de Administrador para iniciar el programa</p> 
@@ -17,20 +16,25 @@
   
 <div class="container mt-3">
   <h2>Ingrese su credencial de Administrador</h2>
-  <form action="/action_page.php">
+  <form method="POST" action="{{ route('login') }}">
+    @csrf
     <div class="mb-3 mt-3">
-      <label for="User">User:</label>
-      <input type="User" class="form-control" id="user" placeholder="Enter User" name="user>
+      <label for="user">User:</label>
+      <input type="text" class="form-control" id="user" placeholder="Enter User" name="user" value="{{ old('user') }}">
+      @if ($errors->has('user'))
+        <div class="alert alert-danger mt-2">
+          {{ $errors->first('user') }}
+        </div>
+      @endif
     </div>
     <div class="mb-3">
-      <label for="pwd">Password:</label>
-      <input type="password" class="form-control" id="pwd" placeholder="Enter password" name="pswd">
+      <label for="password">Password:</label>
+      <input type="password" class="form-control" id="password" placeholder="Enter password" name="password">
     </div>
     
     <button type="submit" class="btn btn-primary">Submit</button>
   </form>
 </div>
-
 
 </body>
 </html>
