@@ -59,7 +59,6 @@ class RecetaController extends Controller
 
         // Crear una nueva receta
         Receta::create([
-            'id_receta' => $request->idReceta,
             'rutPaciente' => $request->rutPaciente,
             'nombrePaciente' => $request->nombrePaciente,
             'edadPaciente' => $request->edadPaciente,
