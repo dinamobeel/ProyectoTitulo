@@ -5,7 +5,9 @@ use App\Http\Controllers\RecetaController;
 use App\Http\Controllers\PacienteController;
 use App\Http\Controllers\AuthController;
 use App\Http\Controllers\MedicoAuthController;
+use App\Http\Controllers\FarmaceuticoController;
 
+use App\Http\Controllers\ModuloController;
 //Aquí se definen las rutas de la aplicación, en este caso solo se tiene una ruta que retorna la vista welcome.
 
 Route::get('/', function () {
@@ -46,3 +48,10 @@ Route::post('/receta/store', [RecetaController::class, 'store'])->name('receta.s
 
 Route::post('/validar-rut', [PacienteController::class, 'validarRut'])->name('validar.rut');
 Route::get('/recetas', [PacienteController::class, 'mostrarRecetas'])->name('mostrar.recetas');
+
+Route::get('/farmaceutico', [FarmaceuticoController::class, 'index']);
+
+
+Route::get('/farmoduloA', [FarmaceuticoController::class, 'ModuloA'])->name('farmoduloA');
+Route::get('/farmoduloB', [FarmaceuticoController::class, 'ModuloB'])->name('farmoduloB');
+Route::get('/farmoduloC', [FarmaceuticoController::class, 'ModuloC'])->name('farmoduloC');

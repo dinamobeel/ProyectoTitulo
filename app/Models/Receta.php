@@ -26,5 +26,19 @@ class Receta extends Model
         'rut_medico', 
         'especialidad_medico',
      ];
-     
+    }
+{
+     class Receta2 extends Model
+{
+    public function paciente()
+    {
+        return $this->belongsTo(Paciente::class, 'id_paciente');
+    }
+
+    public function medico()
+    {
+        return $this->belongsTo(Medico::class, 'id_medico');
+    }
+}
+
 } 
