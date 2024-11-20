@@ -1,0 +1,301 @@
+﻿ID_Receta;Condicion_Medica;Edad_Paciente;Sexo;Frecuencia_Visitas;Rango_Hora_Solicitud;Prioridad;Historial_Medico
+REC-001;hepatitis;66-100;Femenino;10;noche;B;historial de alergias
+REC-002;enfermedad cardíaca;51-65;Masculino;6;noche;C;sin antecedentes
+REC-003;artritis;19-35;Masculino;1;noche;B;sin antecedentes
+REC-004;alzheimer;36-50;Masculino;10;tarde;C;historial de alergias
+REC-005;depresión severa;66-100;Femenino;10;tarde;C;historial de hipertensión
+REC-006;migraña;66-100;Masculino;4;noche;B;sin antecedentes
+REC-007;ansiedad generalizada;51-65;Femenino;1;noche;B;sin historial significativo
+REC-008;fibromialgia;51-65;Femenino;5;mañana;B;historial de alergias
+REC-009;hepatitis;51-65;Femenino;6;noche;A;historial oncológico
+REC-010;esclerosis múltiple;19-35;Femenino;11;tarde;A;historial de alergias
+REC-011;anemia severa;36-50;Masculino;9;mañana;C;historial renal
+REC-012;fibromialgia;51-65;Masculino;8;tarde;A;historial de alergias
+REC-013;colesterol alto;19-35;Femenino;10;noche;C;historial de alergias
+REC-014;alzheimer;36-50;Femenino;2;mañana;C;historial de hipertensión
+REC-015;migraña;0-18;Masculino;4;mañana;C;historial de migrañas
+REC-016;obesidad severa;0-18;Masculino;8;tarde;B;historial de migrañas
+REC-017;enfermedad renal crónica;66-100;Masculino;1;noche;C;historial de alergias
+REC-018;ansiedad generalizada;66-100;Masculino;6;tarde;B;sin antecedentes
+REC-019;artritis;36-50;Femenino;8;mañana;B;historial oncológico
+REC-020;colesterol alto;51-65;Masculino;9;mañana;A;historial cardíaco
+REC-021;fibromialgia;66-100;Masculino;9;noche;A;historial cardíaco
+REC-022;alergia severa;51-65;Femenino;10;tarde;A;historial de migrañas
+REC-023;insuficiencia respiratoria;51-65;Masculino;11;mañana;B;historial de migrañas
+REC-024;diabetes con;19-35;Masculino;11;mañana;A;sin antecedentes
+REC-025;fibromialgia;51-65;Masculino;12;tarde;C;historial oncológico
+REC-026;artritis;19-35;Femenino;7;tarde;B;historial cardíaco
+REC-027;diabetes con;66-100;Femenino;8;noche;A;historial cardíaco
+REC-028;obesidad severa;0-18;Femenino;9;mañana;B;sin antecedentes
+REC-029;epilepsia;0-18;Femenino;7;noche;C;historial de hipertensión
+REC-030;hepatitis;19-35;Femenino;10;noche;C;historial cardíaco
+REC-031;epilepsia;51-65;Masculino;5;tarde;B;sin antecedentes
+REC-032;artritis;0-18;Masculino;6;noche;B;historial de migrañas
+REC-033;depresión severa;51-65;Femenino;7;noche;A;historial oncológico
+REC-034;insuficiencia respiratoria;36-50;Masculino;7;mañana;A;historial de depresión
+REC-035;osteoporosis;66-100;Masculino;1;noche;A;historial oncológico
+REC-036;diabetes con;0-18;Femenino;11;noche;B;historial de migrañas
+REC-037;esclerosis múltiple;66-100;Femenino;3;noche;A;historial cardíaco
+REC-038;colesterol alto;36-50;Masculino;5;tarde;A;historial de alergias
+REC-039;ansiedad generalizada;0-18;Femenino;5;noche;C;sin antecedentes
+REC-040;insuficiencia respiratoria;66-100;Masculino;12;tarde;B;historial de alergias
+REC-041;cirrosis;51-65;Femenino;10;tarde;A;historial de hipertensión
+REC-042;alergia severa;19-35;Masculino;4;mañana;B;historial cardíaco
+REC-043;colesterol alto;66-100;Masculino;11;noche;B;historial oncológico
+REC-044;hipotiroidismo;0-18;Masculino;8;tarde;B;historial oncológico
+REC-045;cirrosis;66-100;Masculino;5;noche;A;historial cardíaco
+REC-046;obesidad severa;36-50;Masculino;12;noche;B;historial oncológico
+REC-047;hipotiroidismo;36-50;Femenino;5;tarde;B;historial de migrañas
+REC-048;osteoporosis;19-35;Femenino;4;mañana;B;historial de hipertensión
+REC-049;hipotiroidismo;19-35;Femenino;4;noche;B;sin historial significativo
+REC-050;fibromialgia;19-35;Femenino;6;noche;B;historial de hipertensión
+REC-051;enfermedad renal crónica;19-35;Femenino;2;tarde;B;historial de alergias
+REC-052;hepatitis;0-18;Masculino;8;tarde;A;historial renal
+REC-053;insuficiencia respiratoria;0-18;Masculino;11;tarde;A;sin antecedentes
+REC-054;fibromialgia;0-18;Masculino;2;tarde;B;historial de migrañas
+REC-055;insuficiencia respiratoria;0-18;Femenino;9;noche;A;historial de alergias
+REC-056;enfermedad cardíaca;19-35;Femenino;11;tarde;A;historial de depresión
+REC-057;insuficiencia respiratoria;19-35;Masculino;2;tarde;A;historial oncológico
+REC-058;fibromialgia;36-50;Femenino;4;tarde;A;historial renal
+REC-059;cáncer;0-18;Femenino;4;mañana;C;historial cardíaco
+REC-060;diabetes con;0-18;Masculino;7;noche;C;historial oncológico
+REC-061;insuficiencia respiratoria;0-18;Femenino;8;noche;A;historial de alergias
+REC-062;diabetes con;0-18;Masculino;5;mañana;B;historial de alergias
+REC-063;diabetes con;19-35;Masculino;10;tarde;C;historial de depresión
+REC-064;parkinson;0-18;Femenino;8;mañana;B;sin antecedentes
+REC-065;obesidad severa;19-35;Femenino;6;tarde;B;historial cardíaco
+REC-066;depresión severa;51-65;Femenino;11;mañana;C;historial de hipertensión
+REC-067;asma con;66-100;Masculino;9;tarde;B;sin historial significativo
+REC-068;epilepsia;36-50;Masculino;3;noche;A;historial de alergias
+REC-069;insuficiencia respiratoria;19-35;Masculino;5;mañana;A;historial de hipertensión
+REC-070;enfermedad cardíaca;66-100;Masculino;6;mañana;A;sin antecedentes
+REC-071;enfermedad renal crónica;36-50;Femenino;2;tarde;C;historial cardíaco
+REC-072;colesterol alto;66-100;Masculino;11;noche;A;historial de migrañas
+REC-073;esclerosis múltiple;36-50;Femenino;6;tarde;B;historial de hipertensión
+REC-074;enfermedad renal crónica;0-18;Femenino;7;noche;B;sin historial significativo
+REC-075;hepatitis;51-65;Femenino;7;noche;B;historial de alergias
+REC-076;migraña;19-35;Femenino;6;noche;A;sin antecedentes
+REC-077;insuficiencia respiratoria;0-18;Masculino;12;noche;B;historial de depresión
+REC-078;obesidad severa;51-65;Masculino;7;noche;B;historial de migrañas
+REC-079;enfermedad cardíaca;36-50;Femenino;3;mañana;C;historial de hipertensión
+REC-080;hipotiroidismo;36-50;Femenino;6;mañana;C;historial oncológico
+REC-081;parkinson;36-50;Masculino;12;mañana;C;historial oncológico
+REC-082;cáncer;66-100;Femenino;6;tarde;B;historial de migrañas
+REC-083;diabetes con;51-65;Femenino;5;noche;A;historial de hipertensión
+REC-084;enfermedad cardíaca;66-100;Femenino;6;tarde;A;historial de migrañas
+REC-085;hipotiroidismo;36-50;Femenino;11;mañana;B;historial cardíaco
+REC-086;obesidad severa;36-50;Femenino;4;noche;B;historial renal
+REC-087;enfermedad renal crónica;19-35;Femenino;5;tarde;C;historial cardíaco
+REC-088;enfermedad renal crónica;19-35;Femenino;4;noche;A;historial renal
+REC-089;migraña;51-65;Femenino;1;mañana;B;historial cardíaco
+REC-090;hepatitis;36-50;Femenino;2;noche;B;historial de alergias
+REC-091;artritis;19-35;Masculino;5;tarde;C;historial de depresión
+REC-092;alzheimer;0-18;Masculino;2;noche;A;historial de hipertensión
+REC-093;anemia severa;66-100;Femenino;11;noche;A;historial de migrañas
+REC-094;migraña;66-100;Femenino;6;noche;B;historial cardíaco
+REC-095;parkinson;0-18;Femenino;8;mañana;B;historial de alergias
+REC-096;hipotiroidismo;36-50;Femenino;1;tarde;A;sin antecedentes
+REC-097;ansiedad generalizada;51-65;Femenino;11;noche;B;historial de migrañas
+REC-098;hipotiroidismo;36-50;Masculino;5;noche;C;historial de alergias
+REC-099;cirrosis;66-100;Masculino;3;tarde;A;historial oncológico
+REC-100;insuficiencia respiratoria;51-65;Femenino;8;tarde;B;historial renal
+REC-101;enfermedad cardíaca;66-100;Masculino;10;mañana;C;sin antecedentes
+REC-102;ansiedad generalizada;51-65;Masculino;10;noche;C;historial de alergias
+REC-103;fibromialgia;66-100;Masculino;10;tarde;A;sin antecedentes
+REC-104;hepatitis;51-65;Femenino;1;tarde;A;historial renal
+REC-105;diabetes con;66-100;Femenino;5;noche;B;historial de depresión
+REC-106;obesidad severa;66-100;Femenino;8;noche;A;historial oncológico
+REC-107;esclerosis múltiple;51-65;Femenino;11;noche;B;historial cardíaco
+REC-108;lupus;51-65;Masculino;12;tarde;B;historial de alergias
+REC-109;alergia severa;66-100;Masculino;7;tarde;B;historial renal
+REC-110;hipotiroidismo;36-50;Femenino;4;mañana;A;historial de alergias
+REC-111;cáncer;0-18;Femenino;1;mañana;C;historial de alergias
+REC-112;hipotiroidismo;19-35;Femenino;7;noche;C;sin antecedentes
+REC-113;anemia severa;19-35;Femenino;8;mañana;A;historial cardíaco
+REC-114;cirrosis;0-18;Femenino;10;mañana;A;sin antecedentes
+REC-115;anemia severa;66-100;Femenino;11;tarde;B;historial de alergias
+REC-116;anemia severa;0-18;Femenino;2;tarde;C;historial de alergias
+REC-117;anemia severa;19-35;Masculino;6;tarde;C;historial de depresión
+REC-118;obesidad severa;0-18;Masculino;2;mañana;C;historial renal
+REC-119;enfermedad cardíaca;51-65;Masculino;1;noche;C;historial de depresión
+REC-120;hepatitis;0-18;Masculino;10;tarde;B;historial de depresión
+REC-121;hipotiroidismo;0-18;Femenino;9;mañana;A;historial renal
+REC-122;hipertensión con;66-100;Masculino;8;mañana;A;historial de depresión
+REC-123;migraña;0-18;Masculino;4;noche;A;sin historial significativo
+REC-124;ansiedad generalizada;19-35;Masculino;5;mañana;B;historial de alergias
+REC-125;alzheimer;36-50;Masculino;8;tarde;A;historial renal
+REC-126;asma con;19-35;Masculino;5;noche;B;historial de hipertensión
+REC-127;obesidad severa;36-50;Masculino;7;noche;C;historial oncológico
+REC-128;lupus;51-65;Femenino;10;noche;C;historial de hipertensión
+REC-129;parkinson;36-50;Masculino;11;tarde;B;sin historial significativo
+REC-130;alergia severa;0-18;Masculino;3;noche;B;historial de depresión
+REC-131;enfermedad cardíaca;36-50;Masculino;12;tarde;B;historial oncológico
+REC-132;enfermedad renal crónica;19-35;Femenino;5;tarde;C;historial renal
+REC-133;asma con;0-18;Masculino;5;noche;B;historial renal
+REC-134;hipotiroidismo;0-18;Masculino;3;noche;C;sin historial significativo
+REC-135;migraña;19-35;Masculino;1;noche;A;historial de migrañas
+REC-136;enfermedad renal crónica;66-100;Masculino;6;mañana;C;historial oncológico
+REC-137;depresión severa;66-100;Masculino;7;mañana;C;historial renal
+REC-138;alergia severa;19-35;Masculino;4;noche;A;historial de hipertensión
+REC-139;alergia severa;0-18;Femenino;10;mañana;B;sin historial significativo
+REC-140;osteoporosis;36-50;Femenino;9;noche;A;historial de migrañas
+REC-141;enfermedad cardíaca;19-35;Masculino;6;tarde;B;sin antecedentes
+REC-142;parkinson;51-65;Masculino;11;mañana;C;historial de alergias
+REC-143;lupus;66-100;Femenino;11;mañana;B;historial oncológico
+REC-144;parkinson;51-65;Masculino;7;noche;C;historial de alergias
+REC-145;insuficiencia respiratoria;51-65;Femenino;9;tarde;B;historial de hipertensión
+REC-146;diabetes con;0-18;Femenino;4;mañana;C;historial de migrañas
+REC-147;anemia severa;19-35;Femenino;5;noche;C;historial de migrañas
+REC-148;enfermedad cardíaca;36-50;Femenino;1;mañana;C;historial de hipertensión
+REC-149;artritis;51-65;Masculino;10;mañana;C;historial de alergias
+REC-150;hepatitis;51-65;Femenino;1;mañana;B;historial cardíaco
+REC-151;osteoporosis;66-100;Femenino;4;noche;B;historial de alergias
+REC-152;esclerosis múltiple;51-65;Femenino;8;mañana;A;historial de depresión
+REC-153;osteoporosis;0-18;Femenino;10;tarde;B;historial de migrañas
+REC-154;hepatitis;51-65;Masculino;9;mañana;A;sin historial significativo
+REC-155;ansiedad generalizada;66-100;Masculino;4;mañana;A;historial de alergias
+REC-156;depresión severa;36-50;Femenino;10;tarde;A;historial oncológico
+REC-157;insuficiencia respiratoria;66-100;Masculino;5;mañana;A;historial de migrañas
+REC-158;osteoporosis;19-35;Masculino;5;mañana;C;historial de hipertensión
+REC-159;epilepsia;66-100;Femenino;9;tarde;B;sin historial significativo
+REC-160;artritis;51-65;Masculino;6;noche;A;historial de alergias
+REC-161;fibromialgia;19-35;Masculino;9;noche;B;sin historial significativo
+REC-162;migraña;36-50;Masculino;6;noche;A;historial renal
+REC-163;cirrosis;66-100;Masculino;1;noche;A;sin antecedentes
+REC-164;anemia severa;66-100;Masculino;3;noche;C;historial oncológico
+REC-165;depresión severa;66-100;Femenino;1;tarde;B;historial de hipertensión
+REC-166;anemia severa;0-18;Femenino;1;tarde;C;historial oncológico
+REC-167;enfermedad renal crónica;19-35;Masculino;1;mañana;C;historial renal
+REC-168;obesidad severa;0-18;Masculino;3;noche;A;sin historial significativo
+REC-169;obesidad severa;36-50;Masculino;10;mañana;C;historial oncológico
+REC-170;osteoporosis;0-18;Masculino;10;noche;B;historial de alergias
+REC-171;anemia severa;66-100;Masculino;7;tarde;B;historial de alergias
+REC-172;diabetes con;66-100;Femenino;3;tarde;C;historial de alergias
+REC-173;lupus;36-50;Femenino;4;tarde;A;historial renal
+REC-174;ansiedad generalizada;51-65;Femenino;12;noche;C;historial de depresión
+REC-175;parkinson;36-50;Femenino;12;tarde;B;historial de depresión
+REC-176;alergia severa;66-100;Femenino;6;noche;B;historial de depresión
+REC-177;cirrosis;66-100;Femenino;8;mañana;C;historial de depresión
+REC-178;asma con;0-18;Femenino;11;tarde;C;historial oncológico
+REC-179;epilepsia;51-65;Masculino;10;tarde;B;historial de hipertensión
+REC-180;cáncer;36-50;Femenino;10;mañana;C;historial de hipertensión
+REC-181;colesterol alto;66-100;Masculino;8;mañana;A;historial oncológico
+REC-182;hepatitis;19-35;Masculino;3;tarde;A;historial de hipertensión
+REC-183;depresión severa;51-65;Masculino;1;mañana;C;sin historial significativo
+REC-184;enfermedad cardíaca;66-100;Femenino;6;mañana;C;historial renal
+REC-185;enfermedad renal crónica;51-65;Femenino;1;tarde;A;historial de migrañas
+REC-186;enfermedad renal crónica;0-18;Masculino;2;tarde;A;historial de migrañas
+REC-187;ansiedad generalizada;36-50;Femenino;3;mañana;C;historial de alergias
+REC-188;artritis;66-100;Masculino;8;noche;B;historial cardíaco
+REC-189;migraña;51-65;Femenino;8;mañana;C;historial cardíaco
+REC-190;cirrosis;36-50;Femenino;1;noche;B;historial de depresión
+REC-191;enfermedad cardíaca;19-35;Masculino;6;noche;C;historial oncológico
+REC-192;epilepsia;0-18;Femenino;6;noche;B;historial de depresión
+REC-193;artritis;36-50;Masculino;5;mañana;C;historial oncológico
+REC-194;obesidad severa;66-100;Femenino;6;mañana;A;historial de depresión
+REC-195;depresión severa;19-35;Femenino;10;tarde;B;sin antecedentes
+REC-196;fibromialgia;36-50;Masculino;2;tarde;A;historial de alergias
+REC-197;anemia severa;51-65;Femenino;9;noche;B;historial de alergias
+REC-198;diabetes con;51-65;Femenino;11;noche;C;sin historial significativo
+REC-199;parkinson;19-35;Masculino;3;mañana;A;historial renal
+REC-200;alergia severa;0-18;Femenino;4;mañana;B;historial de migrañas
+REC-201;fibromialgia;36-50;Femenino;2;mañana;B;sin antecedentes
+REC-202;hepatitis;36-50;Femenino;10;tarde;C;sin antecedentes
+REC-203;ansiedad generalizada;0-18;Masculino;8;mañana;B;historial renal
+REC-204;alzheimer;36-50;Femenino;8;tarde;C;sin historial significativo
+REC-205;hipertensión con;66-100;Femenino;2;tarde;C;historial cardíaco
+REC-206;enfermedad renal crónica;66-100;Masculino;9;noche;A;historial oncológico
+REC-207;hepatitis;36-50;Femenino;5;mañana;A;sin antecedentes
+REC-208;artritis;19-35;Masculino;9;tarde;C;historial de depresión
+REC-209;alzheimer;66-100;Masculino;6;tarde;C;historial de alergias
+REC-210;parkinson;19-35;Masculino;3;noche;B;historial renal
+REC-211;enfermedad renal crónica;19-35;Femenino;6;noche;B;historial cardíaco
+REC-212;parkinson;36-50;Femenino;9;tarde;A;historial de depresión
+REC-213;hipotiroidismo;0-18;Femenino;2;mañana;C;historial de hipertensión
+REC-214;hipertensión con;36-50;Femenino;6;noche;A;historial de alergias
+REC-215;asma con;0-18;Femenino;8;noche;C;historial renal
+REC-216;parkinson;19-35;Femenino;7;tarde;B;historial de depresión
+REC-217;enfermedad renal crónica;51-65;Femenino;9;mañana;C;historial cardíaco
+REC-218;colesterol alto;0-18;Femenino;8;tarde;A;historial cardíaco
+REC-219;obesidad severa;66-100;Femenino;9;tarde;B;sin historial significativo
+REC-220;parkinson;66-100;Femenino;8;tarde;C;historial cardíaco
+REC-221;alergia severa;51-65;Masculino;8;mañana;B;historial de hipertensión
+REC-222;migraña;0-18;Masculino;7;noche;A;historial de migrañas
+REC-223;parkinson;36-50;Masculino;9;noche;C;historial de depresión
+REC-224;artritis;66-100;Masculino;8;mañana;A;historial de depresión
+REC-225;ansiedad generalizada;66-100;Masculino;9;mañana;B;historial de migrañas
+REC-226;anemia severa;0-18;Masculino;10;tarde;A;historial de migrañas
+REC-227;alzheimer;51-65;Masculino;12;mañana;B;historial oncológico
+REC-228;fibromialgia;0-18;Masculino;2;noche;A;historial de depresión
+REC-229;alzheimer;66-100;Masculino;4;tarde;C;historial cardíaco
+REC-230;esclerosis múltiple;0-18;Masculino;5;tarde;A;historial renal
+REC-231;epilepsia;0-18;Masculino;10;noche;B;historial de depresión
+REC-232;alzheimer;0-18;Femenino;6;noche;B;historial de alergias
+REC-233;fibromialgia;66-100;Femenino;12;mañana;A;historial cardíaco
+REC-234;epilepsia;0-18;Masculino;1;tarde;B;sin historial significativo
+REC-235;ansiedad generalizada;51-65;Masculino;2;mañana;B;historial de alergias
+REC-236;diabetes con;19-35;Masculino;8;tarde;B;historial cardíaco
+REC-237;migraña;66-100;Masculino;6;mañana;A;historial de migrañas
+REC-238;parkinson;66-100;Femenino;12;tarde;A;historial cardíaco
+REC-239;cirrosis;51-65;Femenino;11;mañana;B;historial cardíaco
+REC-240;esclerosis múltiple;51-65;Masculino;5;tarde;A;historial de alergias
+REC-241;insuficiencia respiratoria;66-100;Femenino;2;tarde;A;sin historial significativo
+REC-242;anemia severa;0-18;Femenino;8;mañana;A;sin historial significativo
+REC-243;parkinson;36-50;Masculino;3;tarde;C;historial de migrañas
+REC-244;hepatitis;51-65;Masculino;9;noche;B;historial de migrañas
+REC-245;osteoporosis;36-50;Masculino;3;mañana;C;historial oncológico
+REC-246;parkinson;0-18;Masculino;3;mañana;C;historial de hipertensión
+REC-247;hipotiroidismo;66-100;Femenino;8;noche;B;historial cardíaco
+REC-248;obesidad severa;19-35;Femenino;7;tarde;C;sin antecedentes
+REC-249;enfermedad cardíaca;51-65;Femenino;11;noche;B;historial de hipertensión
+REC-250;insuficiencia respiratoria;51-65;Masculino;6;mañana;B;historial oncológico
+REC-251;cáncer;0-18;Masculino;8;mañana;A;historial de alergias
+REC-252;cáncer;19-35;Femenino;12;noche;A;historial de depresión
+REC-253;colesterol alto;66-100;Masculino;5;tarde;A;historial de migrañas
+REC-254;epilepsia;0-18;Femenino;6;mañana;B;historial renal
+REC-255;ansiedad generalizada;36-50;Femenino;8;mañana;A;historial de alergias
+REC-256;esclerosis múltiple;66-100;Femenino;11;noche;A;sin antecedentes
+REC-257;enfermedad cardíaca;66-100;Masculino;7;tarde;C;historial oncológico
+REC-258;fibromialgia;66-100;Femenino;4;tarde;C;historial oncológico
+REC-259;colesterol alto;19-35;Femenino;9;tarde;B;historial de alergias
+REC-260;cáncer;0-18;Femenino;11;tarde;A;historial de migrañas
+REC-261;hepatitis;51-65;Masculino;2;noche;B;sin antecedentes
+REC-262;alzheimer;36-50;Masculino;1;noche;B;historial de depresión
+REC-263;hipotiroidismo;66-100;Femenino;4;mañana;C;historial de migrañas
+REC-264;cáncer;36-50;Femenino;5;noche;C;historial de alergias
+REC-265;migraña;19-35;Femenino;12;noche;B;historial oncológico
+REC-266;hepatitis;51-65;Masculino;5;mañana;B;sin antecedentes
+REC-267;asma con;19-35;Masculino;7;tarde;B;historial de migrañas
+REC-268;obesidad severa;51-65;Femenino;1;noche;A;historial de alergias
+REC-269;lupus;0-18;Masculino;4;mañana;B;historial renal
+REC-270;osteoporosis;19-35;Masculino;1;mañana;A;historial de depresión
+REC-271;diabetes con;51-65;Masculino;7;tarde;A;historial de hipertensión
+REC-272;epilepsia;36-50;Femenino;2;mañana;A;historial cardíaco
+REC-273;cirrosis;19-35;Masculino;12;noche;B;historial renal
+REC-274;cirrosis;51-65;Femenino;11;tarde;B;sin historial significativo
+REC-275;migraña;19-35;Femenino;11;tarde;B;historial oncológico
+REC-276;enfermedad renal crónica;51-65;Femenino;5;tarde;B;historial cardíaco
+REC-277;depresión severa;51-65;Masculino;9;noche;B;sin historial significativo
+REC-278;ansiedad generalizada;19-35;Femenino;1;tarde;C;historial oncológico
+REC-279;fibromialgia;51-65;Masculino;9;tarde;B;historial cardíaco
+REC-280;migraña;0-18;Femenino;7;mañana;A;historial de hipertensión
+REC-281;artritis;36-50;Femenino;9;tarde;B;historial de depresión
+REC-282;osteoporosis;51-65;Masculino;11;tarde;B;historial de migrañas
+REC-283;lupus;51-65;Masculino;12;tarde;A;sin antecedentes
+REC-284;alergia severa;66-100;Femenino;6;tarde;A;historial de alergias
+REC-285;esclerosis múltiple;19-35;Masculino;8;noche;A;sin antecedentes
+REC-286;ansiedad generalizada;19-35;Masculino;9;noche;C;historial de depresión
+REC-287;colesterol alto;51-65;Femenino;3;tarde;C;historial de alergias
+REC-288;hipertensión con;0-18;Masculino;1;noche;C;historial de hipertensión
+REC-289;obesidad severa;51-65;Masculino;10;noche;B;historial de alergias
+REC-290;hipertensión con;66-100;Femenino;8;mañana;A;historial cardíaco
+REC-291;hepatitis;0-18;Femenino;9;mañana;A;historial de depresión
+REC-292;diabetes con;36-50;Femenino;2;tarde;B;historial cardíaco
+REC-293;esclerosis múltiple;51-65;Femenino;3;mañana;C;historial renal
+REC-294;lupus;0-18;Femenino;5;tarde;C;historial oncológico
+REC-295;depresión severa;19-35;Masculino;4;tarde;B;sin historial significativo
+REC-296;anemia severa;51-65;Masculino;8;noche;B;historial oncológico
+REC-297;migraña;51-65;Masculino;5;tarde;B;historial de alergias
+REC-298;depresión severa;36-50;Masculino;7;noche;A;historial de depresión
+REC-299;hipotiroidismo;19-35;Masculino;4;noche;C;sin historial significativo
+REC-300;hipotiroidismo;66-100;Masculino;4;noche;A;historial de depresión
